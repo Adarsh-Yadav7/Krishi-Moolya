@@ -1,4 +1,4 @@
-![Screenshot 2025-05-26 163640](https://github.com/user-attachments/assets/609f1f1c-391a-4c03-bf35-a1e276cf3870)KrishiMoolya 🌾
+KrishiMoolya 🌾
 Welcome to Krishi Moolya – A platform that leverages technology to predict crop prices, empowering farmers with actionable insights for a better tomorrow.
 Home Page 🌾
 ![Screenshot 2025-05-26 163416](https://github.com/user-attachments/assets/c6b8881f-5f99-4cae-bba7-2d75a287887c)
